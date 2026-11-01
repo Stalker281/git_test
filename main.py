@@ -1,1 +1,4 @@
-print("bad commit")
+<<<<<<< HEAD
+print("B")
+=======
+>>>>>>> branch-A
